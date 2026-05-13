@@ -58,8 +58,8 @@ Balance after 2 year/s is: 1210.00
 ---
 
 # 📸 Screenshot
+<img width="730" height="346" alt="image" src="https://github.com/user-attachments/assets/8722800a-5d56-465b-9d89-3970e65d747a" />
 
-(img)
 ---
 
 # 📚 Concepts Used
