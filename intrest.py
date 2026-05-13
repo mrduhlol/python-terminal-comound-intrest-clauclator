@@ -10,3 +10,10 @@ while True:
     else:
         break
 
+while True:
+    rate = float(input("Enter the interest rate: "))
+    if rate < 0:
+        print("Interest rate can't be less than zero -_-")
+    else:
+        break
+
