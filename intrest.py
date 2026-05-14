@@ -1,10 +1,14 @@
 #comppound interest calculator
+
+import time
+
 principle = 0
 rate = 0
 time = 0
 
 while True:
     principle = float(input("------------------------------\nEnter the principle amount: $"))
+    time.sleep(1)
     if principle < 0:
         print("Principle amount can't be less than zero -_+")
     else:
@@ -12,6 +16,7 @@ while True:
 
 while True:
     rate = float(input("------------------------------\nEnter the interest rate (in '%' ex: 0.5 for 5%): "))
+    time.sleep(1)
     if rate < 0:
         print("Interest rate can't be less than zero -_+")
     else:
@@ -25,5 +30,5 @@ while True:
         break
 
 total = principle * pow((1 + rate/100), time)
+time.sleep(1)
 print(f"\n------------------------------\nBalance after [\033[1m{time}\033[0m] year/s is: [\033[1m{total:.2f}\033[0m]\n------------------------------\n\n")
-
