@@ -86,3 +86,8 @@ Balance after 2 year/s is: 1210.00
 If you like this project, give it a ⭐ on GitHub!
 
 Made with ❤️ using Python :) 
+
+<img width="1903" height="2293" alt="image" src="https://github.com/user-attachments/assets/37467036-a70d-40b1-9ed3-7674e4268a1d" />
+<img width="1903" height="2293" alt="image" src="https://github.com/user-attachments/assets/39d9d96c-b5a3-4f12-b766-63af602a8c1b" />
+<img width="1903" height="2293" alt="image" src="https://github.com/user-attachments/assets/23e5c406-459e-4efd-b212-58c2151d09ff" />
+
