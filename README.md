@@ -87,7 +87,7 @@ If you like this project, give it a ⭐ on GitHub!
 
 Made with ❤️ using Python :)
 
-<img width="1903" height="1145" alt="image" src="https://github.com/user-attachments/assets/f5b47667-2eca-488a-a944-5617d47be571" />
-<img width="1903" height="1145" alt="image" src="https://github.com/user-attachments/assets/e468463a-3bca-4aa3-ad04-ab621afc5a93" />
-<img width="1903" height="1145" alt="image" src="https://github.com/user-attachments/assets/1fbc9ee9-829a-4c1a-84b3-e61111382bb4" />
+<img width="1903" height="3680" alt="image" src="https://github.com/user-attachments/assets/d7946352-0713-4172-a253-a368b897bc64" />
+<img width="1903" height="3680" alt="image" src="https://github.com/user-attachments/assets/dbc88e3a-94d9-433b-ab2a-bd589e90c60d" />
+
 
